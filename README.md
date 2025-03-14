@@ -3,7 +3,7 @@
 pkg update && pkg upgrade -y      
 pkg install git -y
 pkg install nodejs-lts -y       
-git clone https://github.com/hanx-666/super-ddos         
+git clone https://github.com/FaaKuntull/super-ddos         
 cd super-ddos      
 yarn install
 npm install       
